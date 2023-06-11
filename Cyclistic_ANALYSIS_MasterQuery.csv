@@ -1,0 +1,5 @@
+"member_casual","rideable_type","number_of_rides","average_duration_sec","average_duration_min","max_ride_length_minutes","avg_sundays","avg_mondays","avg_tuesdays","avg_wednesdays","avg_thursday","avg_fridays","avg_saturdays","rides_sundays","rides_mondays","rides_tuesdays","rides_wednesdays","rides_thursday","rides_fridays","rides_saturdays","modal_day"
+"casual","classic_bike",2267189,1728.42,28.81,1559.93,32.69,32.48,26.85,25.87,25.25,26.59,29.18,437686,252936,235948,244524,265423,313456,517216,6
+"casual","electric_bike",2591058,1061.52,17.69,487.27,20.47,17.69,16.04,15.76,15.87,16.93,19.69,407639,308335,316628,329963,352162,392209,484122,6
+"member","classic_bike",4112557,831.61,13.86,1559.93,15.79,13.4,13.1,13.18,13.11,13.5,15.44,502560,577538,638257,642781,620717,569779,560925,3
+"member","electric_bike",3427239,709.74,11.83,614.4,13.3,11.33,11.14,11.3,11.33,11.76,13.17,391417,466290,525710,539894,542458,505953,455517,4
