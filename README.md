@@ -7,7 +7,7 @@ Repository containg all the files that concerns the achievement of a capstone pr
 Includes:
 * [Final Dataset used](https://drive.google.com/file/d/1paUAYGOh4aIU2ru_TT0blxxAPSCGRpuZ/view?usp=drive_link)
 * Queries from the Cleaning, Processing and Analysis phases
-* PDF file from Tableau Dahsboars as Final Report.
+* PDF file from [Tableau Dahsboard](https://public.tableau.com/views/Cyclistic_16852230912770/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) as Final Report.
 
 **Business Task:**
 
